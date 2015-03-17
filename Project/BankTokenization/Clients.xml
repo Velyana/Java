@@ -1,0 +1,20 @@
+<list>
+  <bankcardtokenization.Client>
+    <name>Teo</name>
+    <password>dokodoko</password>
+    <canRegister>true</canRegister>
+    <canGetCardNumber>true</canGetCardNumber>
+  </bankcardtokenization.Client>
+  <bankcardtokenization.Client>
+    <name>Panda</name>
+    <password>po123</password>
+    <canRegister>true</canRegister>
+    <canGetCardNumber>false</canGetCardNumber>
+  </bankcardtokenization.Client>
+  <bankcardtokenization.Client>
+    <name>Lqlq</name>
+    <password>parola</password>
+    <canRegister>false</canRegister>
+    <canGetCardNumber>true</canGetCardNumber>
+  </bankcardtokenization.Client>
+</list>
